@@ -1,0 +1,11 @@
+﻿  TimeBar.cpp
+  Mouse1.cpp
+c:\users\nana\desktop\c++\cheesymaze\cheesymaze\mouse1.cpp(106): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nana\desktop\c++\cheesymaze\cheesymaze\mouse1.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nana\desktop\c++\cheesymaze\cheesymaze\mouse1.cpp(121): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nana\desktop\c++\cheesymaze\cheesymaze\mouse1.cpp(152): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nana\desktop\c++\cheesymaze\cheesymaze\mouse1.cpp(180): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nana\desktop\c++\cheesymaze\cheesymaze\mouse1.cpp(210): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  CheesyMaze.vcxproj -> C:\Users\NANA\Desktop\C++\CheesyMaze\Debug\CheesyMaze.exe
+  CheesyMaze.vcxproj -> C:\Users\NANA\Desktop\C++\CheesyMaze\Debug\CheesyMaze.pdb (Full PDB)
